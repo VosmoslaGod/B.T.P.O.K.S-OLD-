@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bootbox": "^5.5.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mineflayer": "^4.1.0",
+    "mineflayer-cmd": "^1.1.3",
+    "mineflayer-dashboard": "^2.0.1",
+    "mineflayer-pathfinder": "^1.10.0",
+    "prismarine-viewer": "^1.22.0",
+    "system-sleep": "^1.3.7"
+  }
+}
